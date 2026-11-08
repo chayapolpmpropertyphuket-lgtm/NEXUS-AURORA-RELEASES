@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0",
-  "releaseNotes": "- Redesigned the home screen with a premium iPad-inspired layout, refined typography, soft ambient gradients, and translucent panels.\n- Added a featured app grid with real installed app icons and a dedicated searchable App Library.\n- Restyled the floating glass dock with a centered translucent pill, improved spacing, and persistent favorite-app customization.\n- Updated the version display and latest-version message to use the actual build version.",
+  "versionCode": 8,
+  "versionName": "0.7.1",
+  "releaseNotes": "- Fix the stale latest-version message to display the installed app version dynamically.",
   "apkUrl": "https://github.com/chayapolpmpropertyphuket-lgtm/NEXUS-AURORA-RELEASES/releases/latest/download/NEXUS-AURORA.apk",
-  "minimumSupportedVersionCode": 6
+  "minimumSupportedVersionCode": 7
 }
