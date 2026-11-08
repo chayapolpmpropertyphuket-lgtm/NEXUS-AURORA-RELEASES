@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.9.0",
-  "releaseNotes": "- Rebrand the launcher experience as METUR and refine the premium navy and rose-gold interface.\n- Update the home-screen branding and workspace presentation.\n- Preserve in-app update checks, update notifications, and the download action.",
+  "versionCode": 11,
+  "versionName": "0.9.1",
+  "releaseNotes": "- Unify launcher icon tiles, dock controls, and accent borders with the Deep Navy–Rose Gold theme.\n- Refine the glass surfaces for a more consistent METUR home-screen experience.",
   "apkUrl": "https://github.com/chayapolpmpropertyphuket-lgtm/NEXUS-AURORA-RELEASES/releases/latest/download/NEXUS-AURORA.apk",
-  "minimumSupportedVersionCode": 8
+  "minimumSupportedVersionCode": 10
 }
