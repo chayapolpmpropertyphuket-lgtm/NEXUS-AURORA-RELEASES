@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "releaseNotes": "Initial public update channel for NEXUS UI AURORA.",
-  "apkUrl": "https://github.com/chayapolpmpropertyphuket-lgtm/NEXUS-AURORA-RELEASES/releases/latest",
+  "versionCode": 5,
+  "versionName": "0.5.0",
+  "releaseNotes": "Adds update checking, periodic update notifications, and an in-app APK download action.",
+  "apkUrl": "https://github.com/chayapolpmpropertyphuket-lgtm/NEXUS-AURORA-RELEASES/releases/latest/download/NEXUS-AURORA.apk",
   "minimumSupportedVersionCode": 4
 }
