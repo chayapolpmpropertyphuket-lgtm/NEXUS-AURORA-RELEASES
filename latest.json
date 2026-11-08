@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.7.1",
-  "releaseNotes": "- Fix the stale latest-version message to display the installed app version dynamically.",
+  "versionCode": 10,
+  "versionName": "0.9.0",
+  "releaseNotes": "- Rebrand the launcher experience as METUR and refine the premium navy and rose-gold interface.\n- Update the home-screen branding and workspace presentation.\n- Preserve in-app update checks, update notifications, and the download action.",
   "apkUrl": "https://github.com/chayapolpmpropertyphuket-lgtm/NEXUS-AURORA-RELEASES/releases/latest/download/NEXUS-AURORA.apk",
-  "minimumSupportedVersionCode": 7
+  "minimumSupportedVersionCode": 8
 }
